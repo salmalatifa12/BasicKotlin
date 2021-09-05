@@ -7,5 +7,8 @@ fun main (){
     var kue = 1
     var anak = 5
 
+    var angka = 10
     print(kue/anak)
+
+    print(angka)
 }
